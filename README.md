@@ -1,6 +1,6 @@
 ## 🏦 Simulador de Banco
 
-Este projeto simula operações bancárias em um ambiente de terminal, utilizando Java. Ele foi desenvolvido para praticar conceitos de orientação a objetos, como herança, polimorfismo e exceções personalizadas.
+Este projeto simula operações bancárias em um ambiente de terminal, utilizando Java. Ele foi desenvolvido para praticar conceitos de orientação a objetos, como herança, polimorfismo e exceções personalizadas!
 
 ## 🚀 Funcionalidades
 
